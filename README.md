@@ -1,2 +1,2 @@
-# Super-Image-Resolution
+# Image-Super-Resolution
 SRCNN Implementation using PyTorch
